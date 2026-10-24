@@ -1,94 +1,87 @@
-# 👋 Hi, I'm Thangairulappasamy
+# THANGAIRULAPPASAMY
 
-### 💻 CSE Graduate | Embedded Systems | C/C++ | Linux Internals
+### Embedded Systems Engineer · CSE Graduate · Firmware Development
 
-**Building low-level software. Exploring embedded intelligence. Engineering practical solutions.**
+**Engineering at the intersection of software, hardware, and operating systems.**
 
-🎓 Embedded Systems Training — **Emertxe Information Technologies, Bengaluru**
+Embedded Systems training at **Emertxe Information Technologies, Bengaluru**.
 
-I'm a Computer Science and Engineering graduate interested in embedded firmware, Linux internals, microcontroller programming, and automotive embedded systems. I enjoy solving programming challenges in C/C++ and building projects that connect software fundamentals with real-world engineering.
-
----
-
-## ⚡ Technical Skills
-
-**Programming Languages**
-- C | Embedded C | C++
-
-**Core Computer Science**
-- Data Structures & Algorithms (DSA)
-- Pointers, Memory Management, File Handling
-- Lexical Analysis and Compiler Fundamentals
-
-**Embedded Systems**
-- Microcontroller Programming
-- Peripheral Interfacing and Firmware Development
-- CAN-Based Automotive Systems
-
-**Linux & System Programming**
-- Linux Internals
-- Process Management and System Calls
-- Linux Shell Development
-- File and Process Operations
-
-**Tools & Technologies**
-- Git | GitHub | GCC | GDB | Linux CLI
+I'm a Computer Science and Engineering graduate passionate about low-level programming, embedded firmware, Linux internals, and automotive systems. I enjoy understanding how software interacts with hardware and building reliable, efficient C/C++ applications.
 
 ---
 
-## 🚀 Featured Projects
+## TECHNICAL EXPERTISE
 
-### 🗂️ Address Book — C
-A contact management application featuring contact storage, searching, updating, and deletion.
-
-### 🎵 MP3 Tag Reader — C
-A file-processing project focused on reading and interpreting MP3 metadata, including ID3 tags.
-
-### 🔍 Lexical Analyzer — C
-A compiler-design project that identifies tokens such as keywords, identifiers, operators, and constants.
-
-### 🐧 Linux Mini Shell — C
-A command-line shell exploring process creation, command execution, and Linux system calls.
-
-### ⚙️ Linux Internals & System Programming
-Hands-on programs exploring operating-system concepts, file operations, processes, and system-level interfaces.
-
-### 🚘 CAN Automotive Dashboard — Microcontroller
-An automotive embedded project focused on CAN communication and vehicle-data visualization.
-
-### 📦 Automotive Car Black Box — Microcontroller
-An embedded monitoring project designed to record selected vehicle parameters and event information.
-
-> Add repository links, implementation details, and screenshots as each project becomes available.
+| Domain | Technologies |
+|---|---|
+| Programming | C, Embedded C, C++ |
+| Core CS | DSA, Pointers, Memory Management |
+| Operating Systems | Linux, Linux Internals, System Programming |
+| Embedded Systems | Microcontrollers, Firmware Development |
+| Automotive | CAN Communication, Embedded Monitoring |
+| Development Tools | Git, GitHub, GCC, GDB, Linux CLI |
 
 ---
 
-## 🎯 Current Focus
+## SELECTED PROJECTS
 
-- Strengthening Embedded C and C++ programming
-- Practising DSA and problem-solving
+### 01 — Address Book
+**C · File Handling · Data Structures**
+
+A command-line contact management application for storing, searching, updating, and deleting contact information.
+
+### 02 — MP3 Tag Reader
+**C · File I/O · Binary File Processing**
+
+A file-processing application for reading and interpreting MP3 metadata, including ID3 tags.
+
+### 03 — Lexical Analyzer
+**C · Compiler Design · Tokenization**
+
+A lexical analysis program that identifies tokens such as keywords, identifiers, operators, and constants.
+
+### 04 — Linux Mini Shell
+**C · Linux Internals · System Calls**
+
+A command-line shell project exploring process creation, command execution, and operating-system interfaces.
+
+### 05 — Linux System Programming
+**C · Processes · File Operations**
+
+Practical programs exploring Linux system calls, process management, and low-level file operations.
+
+### 06 — CAN Automotive Dashboard
+**Embedded C · Microcontrollers · CAN**
+
+An automotive embedded project focused on vehicle-data communication and dashboard visualization.
+
+### 07 — Automotive Car Black Box
+**Embedded Systems · Microcontrollers · Event Logging**
+
+An embedded monitoring project designed to record selected vehicle parameters and events.
+
+---
+
+## CURRENT FOCUS
+
+- Writing reliable Embedded C and C++ code
+- Strengthening Data Structures and Algorithms
 - Exploring Linux internals and system programming
 - Developing microcontroller-based firmware
-- Learning automotive communication and CAN fundamentals
+- Understanding automotive embedded systems and CAN
 
 ---
 
-## 📊 GitHub Activity
+## GITHUB
 
-![GitHub contribution graph](https://ghchart.rshah.org/Thangairulappasamy)
+**Code with purpose. Debug with precision. Build with curiosity.**
 
----
+Explore my repositories and follow my progress as I develop practical software and embedded engineering projects.
 
-## 🤝 Let's Connect
+**Email:** thangairulappsamy@gmail.com
 
-📧 **Email:** thangairulappsamy@gmail.com
-
-💻 **GitHub:** [@Thangairulappasamy](https://github.com/Thangairulappasamy)
+**GitHub:** [Thangairulappasamy](https://github.com/Thangairulappasamy)
 
 ---
 
-### 💡 Engineering Mindset
-
-*Understand the hardware. Master the code. Debug with purpose. Build with precision.*
-
-⭐ Thanks for visiting my profile!
+*Continuously learning. Consistently building. Engineering for impact.*
