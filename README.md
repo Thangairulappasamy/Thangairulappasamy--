@@ -1,87 +1,104 @@
+<!-- Profile README | Thangairulappasamy -->
+
+<div align="center">
+
 # THANGAIRULAPPASAMY
 
-### Embedded Systems Engineer · CSE Graduate · Firmware Development
+### Embedded Systems Fresher | Embedded C | C | Linux | Firmware Development
 
-**Engineering at the intersection of software, hardware, and operating systems.**
+**Computer Science graduate building a career in embedded software and firmware engineering.**
 
-Embedded Systems training at **Emertxe Information Technologies, Bengaluru**.
+[GitHub](https://github.com/Thangairulappasamy) · [Email](mailto:thangairulappsamy@gmail.com)
 
-I'm a Computer Science and Engineering graduate passionate about low-level programming, embedded firmware, Linux internals, and automotive systems. I enjoy understanding how software interacts with hardware and building reliable, efficient C/C++ applications.
+</div>
 
 ---
 
-## TECHNICAL EXPERTISE
+## 👋 About Me
 
-| Domain | Technologies |
+I am an aspiring **Embedded Systems Engineer** with training in embedded systems and a strong interest in low-level software development, firmware, and Linux-based systems.
+
+I enjoy working close to the hardware, understanding how software interacts with system resources, and solving problems through structured, efficient code. I am currently strengthening my skills in **Embedded C, C, data structures, Linux system programming, and microcontroller-based development**.
+
+- 🎯 Looking for **Fresher / Entry-Level Embedded Software, Firmware, and Embedded C opportunities**
+- 💻 Interested in Embedded C, C/C++, Linux internals, and automotive embedded systems
+- 📍 Bengaluru, India
+- 🌱 Continuously learning through hands-on projects and practical development
+
+---
+
+## 🧰 Technical Skills
+
+| Area | Skills |
 |---|---|
 | Programming | C, Embedded C, C++ |
-| Core CS | DSA, Pointers, Memory Management |
-| Operating Systems | Linux, Linux Internals, System Programming |
-| Embedded Systems | Microcontrollers, Firmware Development |
-| Automotive | CAN Communication, Embedded Monitoring |
-| Development Tools | Git, GitHub, GCC, GDB, Linux CLI |
+| Programming Fundamentals | Pointers, Arrays, Structures, Memory Management |
+| Data Structures | Linked Lists, Stacks, Queues, Searching, Sorting |
+| Operating Systems | Linux, Processes, System Calls, Linux CLI |
+| Embedded Systems | Microcontrollers, Firmware Fundamentals |
+| Automotive | CAN Communication, Vehicle-data Monitoring |
+| Tools | GCC, GDB, Git, GitHub |
 
 ---
 
-## SELECTED PROJECTS
+## 🚀 Featured Projects
 
-### 01 — Address Book
-**C · File Handling · Data Structures**
+### 01. Address Book
+**C · Data Structures · File Handling**
 
-A command-line contact management application for storing, searching, updating, and deleting contact information.
+A command-line contact management application to create, search, update, and delete contact records, with persistent file storage.
 
-### 02 — MP3 Tag Reader
+### 02. MP3 Tag Reader
 **C · File I/O · Binary File Processing**
 
-A file-processing application for reading and interpreting MP3 metadata, including ID3 tags.
+A utility for reading and interpreting MP3 metadata, including ID3 tag information through binary file operations.
 
-### 03 — Lexical Analyzer
+### 03. Lexical Analyzer
 **C · Compiler Design · Tokenization**
 
-A lexical analysis program that identifies tokens such as keywords, identifiers, operators, and constants.
+A lexical analysis project that scans source input and identifies tokens such as keywords, identifiers, operators, and constants.
 
-### 04 — Linux Mini Shell
-**C · Linux Internals · System Calls**
+### 04. Linux Mini Shell
+**C · Linux System Programming · Processes**
 
-A command-line shell project exploring process creation, command execution, and operating-system interfaces.
+A command-line shell project exploring process creation, command execution, and interaction with Linux system interfaces.
 
-### 05 — Linux System Programming
-**C · Processes · File Operations**
+### 05. CAN Automotive Dashboard
+**Embedded C · CAN Communication · Automotive Systems**
 
-Practical programs exploring Linux system calls, process management, and low-level file operations.
-
-### 06 — CAN Automotive Dashboard
-**Embedded C · Microcontrollers · CAN**
-
-An automotive embedded project focused on vehicle-data communication and dashboard visualization.
-
-### 07 — Automotive Car Black Box
-**Embedded Systems · Microcontrollers · Event Logging**
-
-An embedded monitoring project designed to record selected vehicle parameters and events.
+An automotive embedded project focused on vehicle-data communication and dashboard-style monitoring.
 
 ---
 
-## CURRENT FOCUS
+## 🎓 Training & Career Focus
 
-- Writing reliable Embedded C and C++ code
-- Strengthening Data Structures and Algorithms
-- Exploring Linux internals and system programming
-- Developing microcontroller-based firmware
-- Understanding automotive embedded systems and CAN
+**Embedded Systems Training — Emertxe Information Technologies, Bengaluru**
 
----
+Currently focused on strengthening practical skills in Embedded C, debugging, Linux system programming, data structures, and firmware development.
 
-## GITHUB
-
-**Code with purpose. Debug with precision. Build with curiosity.**
-
-Explore my repositories and follow my progress as I develop practical software and embedded engineering projects.
-
-**Email:** thangairulappsamy@gmail.com
-
-**GitHub:** [Thangairulappasamy](https://github.com/Thangairulappasamy)
+**Target roles:** Embedded Software Engineer (Fresher), Embedded C Developer, Firmware Engineer (Junior), and Linux System Programmer (Entry-Level).
 
 ---
 
-*Continuously learning. Consistently building. Engineering for impact.*
+## 📌 What I’m Working On
+
+- Improving C programming, pointers, memory handling, and data structures
+- Practising Linux system calls, process management, and debugging
+- Building practical embedded and firmware projects
+- Learning microcontroller concepts and automotive communication
+- Writing readable, modular, and maintainable code
+
+---
+
+## 🤝 Connect
+
+- **GitHub:** [@Thangairulappasamy](https://github.com/Thangairulappasamy)
+- **Email:** [thangairulappsamy@gmail.com](mailto:thangairulappsamy@gmail.com)
+
+---
+
+<div align="center">
+
+*Learn continuously. Build practically. Engineer reliably.*
+
+</div>
